@@ -6,6 +6,12 @@ import requests
 import datetime
 import json
 
+from os import environ
+from flask import Flask
+
+app = Flask(__name__)
+app.run(environ.get('PORT'))
+
 # Enable logging
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
