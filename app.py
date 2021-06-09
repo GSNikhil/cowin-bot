@@ -12,7 +12,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-PIN = "110001"
+PIN = "583101"
 url_base = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=" + PIN + "&date="
 
 
