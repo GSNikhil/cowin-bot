@@ -8,4 +8,6 @@ This bot uses python-telegram-bot module to communicate with the telegram bot se
 
 The user data is stored in a simple list, so the data is not persistent. Necessary changes of connecting to a database can be done. 
 
+
+<img src="https://github.com/GSNikhil/cowin-bot/blob/main/images/start.jpg" alt="drawing" width="200"/>
 ![start](https://github.com/GSNikhil/cowin-bot/blob/main/images/start.jpg) ![begin](https://github.com/GSNikhil/cowin-bot/blob/main/images/welcome.jpg)
