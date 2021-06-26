@@ -12,14 +12,14 @@ The user data is stored in a simple list, so the data is not persistent. Necessa
   <tr>
     <td>Welcome</td>
      <td>Start</td>
-    <td>Sample (the PIN has been changed to get results)</td>
+    <td>Example (the PIN has been changed to get results)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/GSNikhil/cowin-bot/blob/main/images/welcome.jpg" alt="welcome" width="200"/></td>
     <td>
 <img src="https://github.com/GSNikhil/cowin-bot/blob/main/images/start.jpg" alt="start" width="200"/></td>
     <td>
-<img src="https://github.com/GSNikhil/cowin-bot/blob/main/images/sample.jpg" alt="sample" width="200"/></td>
+<img src="https://github.com/GSNikhil/cowin-bot/blob/main/images/example.jpg" alt="example" width="200"/></td>
   </tr>
  </table>
 
